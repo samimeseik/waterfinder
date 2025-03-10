@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695758973989",
+    "project_id": "waterfinder-36e1b",
+    "storage_bucket": "waterfinder-36e1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695758973989:android:ba14f61b59e655a613e3cc",
+        "android_client_info": {
+          "package_name": "com.example.waterfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYCjxqq6XymaRJkVu5U7MTS2gPs3m2gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
